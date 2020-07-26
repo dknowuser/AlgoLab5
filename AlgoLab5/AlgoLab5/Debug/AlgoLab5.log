@@ -1,0 +1,19 @@
+﻿  Source.cpp
+d:\labs\algoritms\algolab5\algolab5\algolab5\screen.h(18): warning C4091: 'extern ': ignored on left of 'color' when no variable is declared
+d:\labs\algoritms\algolab5\algolab5\algolab5\shape.h(42): warning C4101: 'e': unreferenced local variable
+d:\labs\algoritms\algolab5\algolab5\algolab5\shape.h(116): warning C4101: 'e': unreferenced local variable
+d:\labs\algoritms\algolab5\algolab5\algolab5\shape.h(262): warning C4101: 'e': unreferenced local variable
+d:\labs\algoritms\algolab5\algolab5\algolab5\shape.h(277): warning C4101: 'e': unreferenced local variable
+d:\labs\algoritms\algolab5\algolab5\algolab5\shape.h(292): warning C4101: 'e': unreferenced local variable
+d:\labs\algoritms\algolab5\algolab5\algolab5\shape.h(307): warning C4101: 'e': unreferenced local variable
+d:\labs\algoritms\algolab5\algolab5\algolab5\shape.h(366): warning C4101: 'e': unreferenced local variable
+d:\labs\algoritms\algolab5\algolab5\algolab5\shape.h(370): warning C4101: 'e': unreferenced local variable
+d:\labs\algoritms\algolab5\algolab5\algolab5\source.cpp(92): warning C4101: 'e': unreferenced local variable
+d:\labs\algoritms\algolab5\algolab5\algolab5\source.cpp(101): warning C4101: 'e': unreferenced local variable
+d:\labs\algoritms\algolab5\algolab5\algolab5\source.cpp(116): warning C4101: 'e': unreferenced local variable
+d:\labs\algoritms\algolab5\algolab5\algolab5\source.cpp(125): warning C4101: 'e': unreferenced local variable
+d:\labs\algoritms\algolab5\algolab5\algolab5\source.cpp(134): warning C4101: 'e': unreferenced local variable
+d:\labs\algoritms\algolab5\algolab5\algolab5\source.cpp(143): warning C4101: 'e': unreferenced local variable
+d:\labs\algoritms\algolab5\algolab5\algolab5\source.cpp(152): warning C4101: 'e': unreferenced local variable
+  AlgoLab5.vcxproj -> D:\Labs\Algoritms\AlgoLab5\AlgoLab5\Debug\AlgoLab5.exe
+  AlgoLab5.vcxproj -> D:\Labs\Algoritms\AlgoLab5\AlgoLab5\Debug\AlgoLab5.pdb (Full PDB)
